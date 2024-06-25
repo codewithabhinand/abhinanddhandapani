@@ -27,8 +27,7 @@ For three months, he struggled to **crack the database** and use Python to extra
 
 His **passion for data** continued to grow, eventually leading him to **travel abroad** to further his career. Everything in his life seemed magical and interesting, and his journey of exploring love and passion for data continued.
 
-![[Content marketing is a form of marketing where you create valuable content for your audience, with the purpose of driving leads and sales to your business..jpg]]
-
+![[A Tale of Discovery.jpg]]
 
 ####  **Summary**: (Summarised by Claude 3 Haiku) 
 - The story follows a young man born in 2001 with a weak heart who, despite being an average student, goes on a journey of personal growth and discovery. After a disrupted university experience due to the COVID-19 pandemic, he develops a passion for programming and data, using his skills to help his parents' clothing business by remotely monitoring sales. This involves overcoming challenges like cracking databases and creating automation tools. His growing love for data eventually leads him to travel abroad to further his career, with his life seeming "magical and interesting" as he continues exploring his passions
