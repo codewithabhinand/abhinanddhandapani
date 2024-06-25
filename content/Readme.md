@@ -1,9 +1,3 @@
----
-title: Home Page
-draft: "false"
-tags:
-  - home
----
 
 ## Welcome
 
